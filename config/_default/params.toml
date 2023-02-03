@@ -23,13 +23,14 @@ enableCodeCopy = true
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
   showRecent = true
+  
   recentLimit = 5
 
 [article]
@@ -46,7 +47,7 @@ enableCodeCopy = true
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
-  showTaxonomies = false
+  showTaxonomies = true
   showWordCount = false
   showComments = true
   # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
@@ -67,7 +68,7 @@ enableCodeCopy = true
 
 [fathomAnalytics]
   # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+  domain = "www.ethanblog.cn"
 
 [verification]
   # google = ""
