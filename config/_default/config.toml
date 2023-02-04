@@ -11,6 +11,5 @@ summaryLength = 0
 disqusShortname = 'yourDisqusShortname'
   disqus_identifier = ""
 
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]

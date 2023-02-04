@@ -17,7 +17,7 @@ enableCodeCopy = true
 [appearance]
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  layout = "custom" # valid options: basic, hamburger, hybrid, custom
   logo = "img/logo/thumb.jpg"
   showTitle = true
 
@@ -30,7 +30,6 @@ enableCodeCopy = true
 [homepage]
   layout = "page" # valid options: page, profile, custom
   showRecent = true
-  
   recentLimit = 5
 
 [article]
