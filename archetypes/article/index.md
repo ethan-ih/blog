@@ -2,6 +2,13 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
+tags : 
+- 
+categories: 
+- 文章
+feature: ""
 ---
 
-123fa
+{{< lead >}}
+
+{{< /lead >}}
