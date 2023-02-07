@@ -14,7 +14,7 @@ You are constantly becoming a new person．
 
 ## Fact & Points
 
-Shankar Vendantam 在他去年的演讲里谈到 [illusion of continuity]({{< ref "笔记/illusion of continuity/index.md" >}})这个观点。
+Shankar Vendantam 在他去年的演讲里谈到 [illusion of continuity]({{< ref "笔记/illusion of continuity/index.md" >}}) 这个观点。
 
 > the belief that our future selves will share the same views, perspectives and hopes as our current selves
 
