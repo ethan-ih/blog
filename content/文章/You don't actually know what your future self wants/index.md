@@ -16,7 +16,7 @@ You are constantly becoming a new person．
 
 Shankar Vendantam 在他去年的演讲里谈到 [illusion of continuity]({{< ref "笔记/illusion of continuity/index.md" >}})这个观点。
 
-the belief that our future selves will share the same views, perspectives and hopes as our current selves
+> the belief that our future selves will share the same views, perspectives and hopes as our current selves
 
 也就是说，我们很难想象未来的自己会与当下的自己有所不同，由此，Shankar Vendantam 提出了 3 个他的观点：
 
